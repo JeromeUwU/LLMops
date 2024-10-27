@@ -18,6 +18,10 @@ langchainhub
 sentence_transformers
 PyPDF2
 futures
+langgraph
+typing
+typing_extensions
+tiktoken
 
 langchain == 0.3
 langchain_community == 0.3
